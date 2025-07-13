@@ -117,7 +117,6 @@ You may use, modify, and distribute the code under the same license with attribu
 **Subin Samu**  
 Cybersecurity enthusiast & MSc Applied Computer Science student  
 📍 Deggendorf Institute of Technology  
-📧 [subinsamu28@gmail.com](mailto:subinsamu28@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/subin-samu)  
 🌐 [Portfolio](https://subinsamu.com)
 
